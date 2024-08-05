@@ -14,7 +14,7 @@
 <h2 >SO</h2>
 <p >
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=archlinux">
+  <img src="https://img.shields.io/badge/Arch%20Linux-grey?style=for-the-badge&logo=archlinux">
 </p>
 
 <h2 >Social Media</h2>
